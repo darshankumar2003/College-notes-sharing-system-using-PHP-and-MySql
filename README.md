@@ -22,4 +22,7 @@ The **Online Notes Sharing Platform** is a user-friendly web application designe
 This project is designed to benefit:  
 1. **Students**: Centralized access to study material for seamless learning.  
 2. **Educators**: Simplified sharing of notes and resources.  
-3. **Institutions**: Encourages digital transformation and eco-friendly practices.  
+3. **Institutions**: Encourages digital transformation and eco-friendly practices.
+
+
+Contact 6363796110 for report
